@@ -8,7 +8,7 @@ https://github.com/karapandzar/EBSWallet/blob/main/ebswallet.stl?raw=true
 Extruded EBS logo for two color printing:
 https://github.com/karapandzar/EBSWallet/blob/main/extendedebslogo.stl?raw=true
 
-<video src="IMG_6144.mov" controls></video>
+<video src="IMG_6144.mp4" controls></video>
 
 
 ![Wallets](IMG_6147.jpeg)
